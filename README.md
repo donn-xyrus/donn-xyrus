@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Donn Xyrus</h1>
 <h3 align="center">An Information Technology Student @CatSU</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/3573448/screenshots/14824348/coding_laptop_4x.png">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donn-xyrus&label=Profile%20views&color=0e75b6&style=flat" alt="donn-xyrus" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=donn-xyrus" alt="donn-xyrus" /></a> </p>
