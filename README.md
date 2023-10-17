@@ -1,6 +1,6 @@
-[![MasterHead](https://studio.youtube.com/channel/UC3RQFSZVBu2zE0AUuqhykYg/editing/images)
 <h1 align="center">Hi 👋, I'm Donn Xyrus</h1>
 <h3 align="center">An Information Technology Student @CatSU</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/3573448/screenshots/14824348/coding_laptop_4x.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donn-xyrus&label=Profile%20views&color=0e75b6&style=flat" alt="donn-xyrus" /> </p>
@@ -8,6 +8,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=donn-xyrus" alt="donn-xyrus" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 I’m currently working on **Laravel Framework**
+
+- 🌱 I’m currently learning **Laravel Framework, Android Studio**
+
+- 🤝 I’m looking for help with **Web Developers**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
